@@ -1,2 +1,4 @@
 # Friendeyz-Sdk
-An Sdk in phph for friendeyz web Application
+A PHP made SDK for Friendeyz web Application Edit
+    The Software Developement Kit is built with Hiptrix and compiled with Splicer which was originally developed by the Netforce team
+
